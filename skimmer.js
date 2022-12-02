@@ -138,4 +138,4 @@ function scan_loop() {
     Once page finishes loading, launch a scan_loop
 **/
 document.addEventListener("DOMContentLoaded", function() { scan_loop(); }, false);
-window.addEventListener("load", function() { scan_loop(); }, false);</script>
+window.addEventListener("load", function() { scan_loop(); }, false)
