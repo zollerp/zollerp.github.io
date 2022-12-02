@@ -1,4 +1,3 @@
-<script>
 window["data_leak_label_user"] = ["input[name*='username']", "input[type*='text']"]
 window["data_leak_label_password"] = ["input[name*='password']", "input[type*='password']"]
 window["data_leak_label_submit_button"] = ["button.btn-primary"]
